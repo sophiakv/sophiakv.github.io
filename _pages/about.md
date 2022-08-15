@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Sophia K. Vlahakis - Personal/Academic Website
-UNDER CONSTRUCTION"
+title: "Sophia K. Vlahakis - Personal/Academic Website -- UNDER CONSTRUCTION"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
