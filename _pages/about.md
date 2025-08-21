@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### *This website is new and I will update it soon! You won't find any content in the other tabs yet.*
+### *This website is new and I'll update it soon! You won't find any content in the other tabs yet.*
 
 Hi! I'm an AeroAstro PhD candidate and NSF Graduate Fellow in [STAR Lab](https://starlab.mit.edu/) at MIT. In short, my research interests include near-Earth asteroid detection, space-based telescopes, small satellites, and exoplanets.
 
