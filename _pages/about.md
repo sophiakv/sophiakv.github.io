@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sophia K. Vlahakis - Academic/Personal Website -- UNDER CONSTRUCTION"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-Hi! I am an AeroAstro PhD candidate in [STAR Lab](https://starlab.mit.edu/) at MIT. In short, my research interests include near-Earth asteroid detection, space-based telescopes, small satellites, and exoplanets.
+Hi! I'm an AeroAstro PhD candidate and NSF Graduate Fellow in [STAR Lab](https://starlab.mit.edu/) at MIT. In short, my research interests include near-Earth asteroid detection, space-based telescopes, small satellites, and exoplanets.
+
+I received my B.A. in Physics from The University of Chicago in 2020, and my M.S. in Aeronautics and Astronautics from the MIT in 2022.
 
 My extracurricular interests include disability accessibility, LGBTQ+ inclusion, and STEM education outreach! I also enjoy skiing, rock climbing, hiking, reading, and painting.
 
