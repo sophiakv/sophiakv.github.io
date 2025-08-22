@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
@@ -7,7 +11,13 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Community"
+    url: /community/
+
+  - title: "Hobby"
+    url: /hobby/
     
   #- title: "Portfolio"
   #  url: /portfolio/
