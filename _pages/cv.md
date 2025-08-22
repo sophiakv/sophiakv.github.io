@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download a pdf of my CV!
+Download a [pdf of my CV](http://sophiakv.github.io/files/Vlahakis_CV_2025.pdf)!
 
 
 {% include base_path %}
