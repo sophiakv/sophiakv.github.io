@@ -7,8 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-### Below are some recent/highlighted works. For a complete publications list, see my [Google Scholar profile](https://scholar.google.com/citations?user=2VgJ4loAAAAJ&hl=en).
-(Click the titles for a brief description of each paper!)
+For a complete publications list, see my [Google Scholar profile](https://scholar.google.com/citations?user=2VgJ4loAAAAJ&hl=en).
 
 {% include base_path %}
 
