@@ -6,9 +6,8 @@ author_profile: true
 redirect_from: 
   - /publications.html
 ---
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-Testing testing, 123
+### Below are recent/highlighted works, but you can find a complete publications list on my [Google Scholar profile](https://scholar.google.com/citations?user=2VgJ4loAAAAJ&hl=en)
 
 
 {% include base_path %}
