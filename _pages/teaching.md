@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Coming soon: description of my teaching experience, including a TA position with BeaverWorks Summer Institute and an accessible astronomy education research project.
+Coming soon: Description of my teaching and outreach experience, including a TA position with BeaverWorks Summer Institute, an accessible astronomy education research project, and a fellowship in the MIT AeroAstro Communication Lab.
 
 
 <!-- 
