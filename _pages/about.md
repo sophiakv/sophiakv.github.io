@@ -11,7 +11,7 @@ redirect_from:
 ### *This website is a work in progress! Some tabs may have placeholders.*
 <br>
 
-I'm a 6th year AeroAstro PhD candidate and NSF Graduate Fellow in [STAR Lab](https://starlab.mit.edu/) at MIT. In short, my research interests include near-Earth asteroid detection, space-based telescopes, small satellites, and interstellar objects.
+I'm a 6th year AeroAstro PhD candidate and NSF Graduate Fellow in [STAR Lab](https://starlab.mit.edu/) at MIT. My research interests include near-Earth asteroid detection, space-based telescopes, small satellites, and interstellar objects.
 
 I received my B.A. in Physics from the University of Chicago in 2020, and my M.S. in Aeronautics and Astronautics from MIT in 2022.
 
