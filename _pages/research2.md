@@ -10,8 +10,11 @@ Also, download a [pdf of my CV](http://sophiakv.github.io/files/Vlahakis_CV_2025
 ---
 # Near-Earth Asteroid Detection for Planetary Defense
 
-![Alt text](/images/Solar_angle_diagram.png)
+<img src="/images/Solar_angle_diagram.png"
+    width="300"
+    alt="insert alt text"
+    align="left">
 
-I'm interested in how additional space-based telescopes could help close gaps in the detection and characterization of Near-Earth Asteroids, particularly those which could pose an impact risk.
+I'm interested in how space-based telescopes could help close gaps in the detection and characterization of Near-Earth Asteroids, particularly those which pose an impact risk. 
 
 
