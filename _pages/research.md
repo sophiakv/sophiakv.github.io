@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+---
+
 # Near-Earth Asteroid Detection for Planetary Defense
 
 <img src="/images/Solar_angle_diagram.png"
