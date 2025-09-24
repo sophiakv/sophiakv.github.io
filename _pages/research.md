@@ -13,7 +13,7 @@ author_profile: true
     width="300"
     alt="A simple diagram showing a birds eye view of Earth's orbit around the sun. From the perspective of an observer on Earth, the area between 45 and 60 degrees away from the sun is shaded in yellow and labeled (space), and the region 60 degrees and greater is green and labeled (ground). This illustrates how space telescopes can point closer to the sun, and shows how that increases coverage in the areas of the solar system interior to Earth's orbit."
     align="left"
-    style="margin:50px 0px">
+    style="margin:0px 50px">
 
 I'm interested in how space-based telescopes could help close gaps in the detection and characterization of Near-Earth Asteroids (NEAs), particularly those which pose an impact risk. Upcoming surveys with Rubin Observatory and the NEO Surveyor Satellite will drastically increase the NEA discovery rate, leading to a strain on existing follow-up resources for characterization. In particular, NEO Surveyor expects to discover asteroids as close as 45 degrees away from the sun, posing challenges for ground-based follow-up instruments which contend with sunlight in Earth's atmosphere during dusk and dawn. Near-sun observations are important for observing asteroids interior to Earth's orbit, as illustrated by the lefthand figure.
 
