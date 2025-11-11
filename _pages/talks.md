@@ -7,7 +7,7 @@ author_profile: true
 
 ### Invited Talks:
 
-* Harvard/Smithsonian Center for Astrophysics, Solar, Stellar & Planetary Sciences (SSP) Seminar, "Near-Earth Asteroid Follow-Up Observations with a Future Optical Telescope in Geosynchronous Orbit", November 10th, 2025
+* Harvard/Smithsonian Center for Astrophysics, Solar, Stellar & Planetary Sciences (SSP) Seminar, "Near-Earth Asteroid Follow-Up Observations with a Future Optical Telescope in Geosynchronous Orbit", November 2025
 
 * MIT Lincoln Laboratory, Group 91, “Simulating Near-Earth Asteroid Detections for a Future Telescope in Geosynchronous Orbit”, July 1st, 2025
 
