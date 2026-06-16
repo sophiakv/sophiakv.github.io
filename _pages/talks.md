@@ -7,6 +7,10 @@ author_profile: true
 
 ### Invited Talks:
 
+* Washington University in St. Louis, Department of Physics, AstroMusers Research Group, “Near Earth Asteroid Follow-Up Observations with a Future Optical Telescope in Geosynchronous Orbit”, February 13th, 2026 
+
+* University of Maryland, Department of Aerospace Engineering, Strategic Space Sensing Group, “Near-Earth Asteroid Follow-Up Observations with a Future Optical Telescope in Geosynchronous Orbit”, February 10th, 2026
+
 * MIT Lincoln Laboratory, Group 91, “Simulating Near-Earth Asteroid Detections for a Future Telescope in Geosynchronous Orbit”, July 1st, 2025
 
 * University of Connecticut Astronomy Seminar, “The DeMi CubeSat: An Adaptive Optics Demonstration in Space”, October 26th, 2022
